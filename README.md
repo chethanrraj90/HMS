@@ -1,8 +1,8 @@
 
-### Paper and Certificate
+###
 ## HMS
 Wrote a Paper "HMS: Efficiency, Integrated and Better Monitoring Service at Hospital to 
-Confect Inter-relationship between Doctors and Patients" along with Shweta S Aladakatti ma'am and Presented the paper in Virtual International Conference on 30th June 2021 Organized by Karpaga Vinayaga College of Engineering and Technology(KVCET), Dept of CSE.
+Confect Inter-relationship between Doctors and Patients" along with Shweta S Aladakatti ma'am, and Presented the paper at Virtual International Conference on 30th June 2021 Organized by Karpaga Vinayaga College of Engineering and Technology(KVCET), Dept of CSE.
 
 ## Functions
 ### Admin
